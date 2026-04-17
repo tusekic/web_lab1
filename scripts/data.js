@@ -3,6 +3,7 @@ const data = {
     "website": "Auto Dijelovi Expert",
     "categories": [
         { 
+            "id": 0,
             "name" : "Motor i pogon",
             "image" : "motor_pogon.jpg",
             "products" : [
@@ -14,6 +15,7 @@ const data = {
             ]
         },
         { 
+            "id": 1,
             "name" : "Kočioni sustav",
             "image" : "kocnice.jpg",
             "products" : [
@@ -25,6 +27,7 @@ const data = {
             ]
         },
         { 
+            "id": 2,
             "name" : "Ovjes i upravljanje",
             "image" : "ovjes.jpg",
             "products" : [
@@ -36,6 +39,7 @@ const data = {
             ]
         },
         { 
+            "id": 3,
             "name" : "Ispušni sustav",
             "image" : "ispuh.jpg",
             "products" : [
@@ -47,6 +51,7 @@ const data = {
             ]
         },
         { 
+            "id": 4,
             "name" : "Elektrika i elektronika",
             "image" : "elektrika.jpg",
             "products" : [
@@ -58,6 +63,7 @@ const data = {
             ]
         },
         { 
+            "id": 5,
             "name" : "Hlađenje i grijanje",
             "image" : "hladjenje.jpg",
             "products" : [
@@ -69,6 +75,7 @@ const data = {
             ]
         },
         { 
+            "id": 6,
             "name" : "Sustav goriva",
             "image" : "gorivo.jpg",
             "products" : [
@@ -80,6 +87,7 @@ const data = {
             ]
         },
         { 
+            "id": 7,
             "name" : "Karoserija i rasvjeta",
             "image" : "karoserija.jpg",
             "products" : [
@@ -91,6 +99,7 @@ const data = {
             ]
         },
         { 
+            "id": 8,
             "name" : "Filteri",
             "image" : "filteri.jpg",
             "products" : [
@@ -102,6 +111,7 @@ const data = {
             ]
         },
         { 
+            "id": 9,
             "name" : "Ulja i tekućine",
             "image" : "ulja.jpg",
             "products" : [
